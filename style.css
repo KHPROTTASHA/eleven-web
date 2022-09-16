@@ -2,3 +2,98 @@
     height: 900px;
     width: 100%;
 }
+.title{
+    font-family: 'permanent marker', cursive  ;
+    color:chartreuse;
+}
+.cardd{
+    margin: 20px;
+    box-shadow: 0 4px 20px white, 0 6px 20px 0  white;
+}
+.text-p{
+    color: gray;
+    opacity: 1;
+
+}
+.bottonp{
+    background-image: linear-gradient(to right, #314755 0%, #26a0da 51%, #314755 100%);
+    margin: 10px;
+    padding: 8px;
+    text-align: center;
+    background-size: 200% auto;
+    color: white;
+    display: block;
+}
+
+.buttonp{
+    background-image: linear-gradient(to right, #314755 0%, #26a0da 51%, #314755 100%);
+    margin: 10px;
+    padding: 8px;
+    text-align: center;
+    background-size: 200%;
+    font-size: 20px;
+    color: white;
+    display: block;
+    width: 200px;
+}
+.side-box{
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 4px 20px white, 0 6px 20px 0  white;
+    
+}
+
+.mside-box{
+    width: 500px;
+    height:300px;
+    box-shadow: 0 4px 20px white, 0 6px 20px 0  white;
+}
+
+.lside-box{
+    width: 500px;
+    height:600px;
+    box-shadow: 0 4px 20px white, 0 6px 20px 0  white;
+}
+.bx{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bb{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.buttonp:hover{
+    background-color:black;
+    height: 100px;
+    width: 300px;
+    transition-duration: 1s;
+} 
+
+.bottonp:hover{
+    background-color:black;
+    height: 100px;
+    width: 300px;
+    transition-duration: 1s;
+}
+
+.inp{
+    display: flex;
+}
+.fpp{
+    width: 100%;
+    height:70px;
+    box-shadow: 0 4px 20px white, 0 6px 20px 0  white;
+
+}
+.fmm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
